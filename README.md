@@ -22,7 +22,3 @@ The results of this analysis provide insights into the effectiveness of FFT and 
 
 ## Conclusion
 This project underscores the importance of acoustic signal analysis in diagnosing bearing faults in induction motors. The combined use of IIR filters, Wiener filters, and FFT techniques proves to be an effective approach in identifying and addressing motor bearing issues, thus ensuring optimal performance and reliability of industrial machinery.
-
----
-
-This README file now provides a succinct overview of the project, focusing on the abstract, keywords, introduction, results, and conclusion sections.
